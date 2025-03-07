@@ -1,0 +1,13 @@
+streamlit
+openai
+whisper
+transformers
+nltk
+fpdf
+pyaudio
+requests
+spacy
+torch
+numpy
+pandas
+ffmpeg-python
